@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @nunoreisferreira
+- 👀 I’m interested in Ansible
+- 🌱 I’m currently learning Ansible
+- 💞️ I’m looking to collaborate on Automation with Ansible
+- 📫 How to reach me : LinkedIn
+- ⚡ Fun fact: Chess Player
